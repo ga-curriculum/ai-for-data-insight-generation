@@ -1,0 +1,1001 @@
+Order Date,Country,Customer Segment,Revenue
+2024-06-24,UK,Small Business,9899
+2024-05-15,UK,Small Business,4570
+2024-05-20,Canada,Small Business,5331
+2024-06-01,Canada,Consumer,10789
+2024-04-18,Germany,Enterprise,5605
+2024-05-08,USA,Small Business,10422
+2024-05-29,USA,Enterprise,8647
+2024-06-08,Canada,Consumer,5512
+2024-06-10,USA,Consumer,6088
+2024-05-23,USA,Small Business,4497
+2024-04-26,USA,Enterprise,5691
+2024-05-01,UK,Consumer,2033
+2024-06-08,Canada,Small Business,11335
+2024-04-05,Germany,Consumer,6609
+2024-04-25,USA,Enterprise,1788
+2024-06-04,Canada,Consumer,8510
+2024-05-30,USA,Consumer,4236
+2024-05-13,Canada,Enterprise,10185
+2024-06-13,UK,Enterprise,7218
+2024-05-22,USA,Small Business,4313
+2024-06-20,UK,Enterprise,8328
+2024-05-04,UK,Enterprise,7014
+2024-04-25,Germany,Consumer,9969
+2024-06-27,USA,Enterprise,8913
+2024-05-24,Germany,Enterprise,7130
+2024-05-17,Germany,Enterprise,7078
+2024-04-26,USA,Small Business,7966
+2024-06-18,USA,Enterprise,10530
+2024-04-10,Germany,Consumer,9209
+2024-06-02,Canada,Consumer,11445
+2024-04-12,USA,Enterprise,8913
+2024-06-14,UK,Enterprise,2811
+2024-05-26,UK,Small Business,2270
+2024-05-07,UK,Enterprise,10596
+2024-05-30,Canada,Small Business,7104
+2024-04-13,Germany,Small Business,11280
+2024-05-15,USA,Enterprise,10352
+2024-05-22,USA,Enterprise,3487
+2024-05-02,Canada,Enterprise,5456
+2024-05-06,USA,Enterprise,6882
+2024-04-12,USA,Small Business,3951
+2024-06-12,USA,Enterprise,10014
+2024-04-11,UK,Enterprise,3642
+2024-05-29,Canada,Small Business,8842
+2024-05-26,USA,Consumer,4474
+2024-06-29,Canada,Small Business,10460
+2024-05-04,Germany,Small Business,11222
+2024-05-02,Germany,Consumer,3280
+2024-05-21,USA,Consumer,4783
+2024-06-26,UK,Enterprise,2126
+2024-05-04,Germany,Enterprise,6975
+2024-06-23,Canada,Enterprise,8692
+2024-04-10,UK,Consumer,3507
+2024-05-10,Germany,Enterprise,11287
+2024-05-05,USA,Consumer,1824
+2024-06-12,UK,Small Business,11994
+2024-05-03,UK,Consumer,10004
+2024-06-05,UK,Enterprise,4053
+2024-04-30,Canada,Small Business,4562
+2024-05-01,USA,Small Business,11747
+2024-04-19,Canada,Small Business,4778
+2024-06-08,Germany,Consumer,8193
+2024-05-17,USA,Enterprise,3809
+2024-05-12,Canada,Enterprise,1937
+2024-06-29,USA,Enterprise,8720
+2024-04-26,UK,Small Business,11762
+2024-05-21,UK,Enterprise,9321
+2024-05-10,USA,Small Business,7697
+2024-06-22,USA,Consumer,7866
+2024-05-04,Canada,Consumer,11185
+2024-06-22,UK,Consumer,9796
+2024-06-11,Canada,Small Business,6469
+2024-05-12,USA,Consumer,6874
+2024-05-31,USA,Enterprise,5428
+2024-05-03,UK,Consumer,7967
+2024-05-17,Canada,Enterprise,7978
+2024-04-14,USA,Enterprise,4093
+2024-05-23,Canada,Small Business,6294
+2024-04-25,USA,Small Business,8884
+2024-04-19,USA,Consumer,3089
+2024-05-19,UK,Enterprise,8999
+2024-06-02,Canada,Enterprise,7642
+2024-06-09,UK,Consumer,8753
+2024-06-26,UK,Small Business,6154
+2024-05-23,UK,Small Business,5483
+2024-06-17,UK,Enterprise,4594
+2024-06-12,Canada,Consumer,11153
+2024-06-21,USA,Enterprise,11552
+2024-04-07,Germany,Consumer,10007
+2024-05-19,UK,Small Business,11998
+2024-06-27,Germany,Enterprise,6676
+2024-05-21,USA,Consumer,2057
+2024-06-09,UK,Consumer,10702
+2024-05-05,USA,Small Business,3145
+2024-06-18,UK,Enterprise,3186
+2024-06-29,USA,Small Business,10903
+2024-05-02,Germany,Enterprise,5045
+2024-04-22,Canada,Consumer,5481
+2024-04-13,Canada,Consumer,2646
+2024-04-11,Canada,Consumer,9996
+2024-04-21,Germany,Enterprise,5392
+2024-04-11,USA,Enterprise,9986
+2024-05-20,Germany,Consumer,11469
+2024-04-19,Germany,Enterprise,8646
+2024-04-14,Germany,Consumer,2357
+2024-05-26,Germany,Enterprise,11562
+2024-05-07,UK,Consumer,7824
+2024-06-06,Germany,Enterprise,3003
+2024-05-23,Germany,Consumer,6627
+2024-06-17,UK,Small Business,9679
+2024-04-23,Germany,Small Business,5081
+2024-05-03,Canada,Consumer,2624
+2024-06-14,Germany,Consumer,9308
+2024-05-10,USA,Enterprise,9130
+2024-05-25,Germany,Consumer,6307
+2024-06-03,Germany,Small Business,8715
+2024-06-15,Canada,Enterprise,2657
+2024-06-03,UK,Small Business,1244
+2024-04-02,Canada,Small Business,11759
+2024-05-15,Germany,Enterprise,6766
+2024-04-28,USA,Small Business,8042
+2024-06-06,UK,Small Business,11363
+2024-06-04,Germany,Enterprise,10433
+2024-04-10,Canada,Enterprise,7043
+2024-04-03,Germany,Enterprise,5054
+2024-05-31,Canada,Enterprise,11009
+2024-06-17,Germany,Enterprise,2977
+2024-05-08,USA,Small Business,1227
+2024-04-17,UK,Consumer,7832
+2024-06-05,Germany,Small Business,11212
+2024-05-22,Germany,Small Business,3156
+2024-05-09,Germany,Small Business,4496
+2024-06-27,USA,Small Business,10672
+2024-06-29,UK,Enterprise,10620
+2024-05-31,Germany,Enterprise,10472
+2024-06-13,Germany,Consumer,5212
+2024-06-21,UK,Enterprise,6301
+2024-06-10,USA,Small Business,7515
+2024-06-29,UK,Small Business,6464
+2024-05-05,Germany,Consumer,7508
+2024-04-22,USA,Small Business,1507
+2024-05-06,USA,Consumer,6622
+2024-04-08,Canada,Enterprise,7752
+2024-04-20,USA,Enterprise,4087
+2024-06-13,Germany,Consumer,3076
+2024-06-11,UK,Enterprise,8742
+2024-06-03,Germany,Small Business,3153
+2024-04-10,USA,Small Business,3956
+2024-06-30,USA,Consumer,6208
+2024-05-03,Canada,Consumer,9323
+2024-06-30,UK,Consumer,7720
+2024-05-13,USA,Consumer,7314
+2024-04-21,UK,Consumer,6900
+2024-04-09,UK,Consumer,11592
+2024-06-09,Canada,Enterprise,10648
+2024-05-29,Canada,Enterprise,11697
+2024-05-09,UK,Small Business,10313
+2024-05-26,UK,Enterprise,6526
+2024-04-19,Germany,Consumer,9761
+2024-04-02,Canada,Small Business,8941
+2024-05-25,UK,Small Business,1698
+2024-04-02,Germany,Small Business,7220
+2024-04-24,UK,Consumer,9965
+2024-06-02,USA,Enterprise,10273
+2024-04-18,Canada,Enterprise,9133
+2024-04-30,USA,Enterprise,9213
+2024-05-27,USA,Enterprise,2996
+2024-05-14,Canada,Consumer,7899
+2024-06-13,Canada,Consumer,9087
+2024-06-04,USA,Consumer,7938
+2024-04-19,Germany,Small Business,10940
+2024-04-06,UK,Small Business,4611
+2024-05-30,Canada,Enterprise,6647
+2024-05-04,UK,Small Business,6533
+2024-04-13,USA,Small Business,11865
+2024-04-09,UK,Consumer,6093
+2024-05-20,UK,Consumer,1474
+2024-06-12,UK,Consumer,9241
+2024-04-22,Canada,Consumer,4907
+2024-05-24,UK,Small Business,4063
+2024-05-08,UK,Consumer,6645
+2024-06-17,USA,Enterprise,6019
+2024-04-20,Germany,Consumer,5028
+2024-04-07,Canada,Small Business,4088
+2024-06-28,Germany,Enterprise,6578
+2024-05-07,USA,Consumer,4063
+2024-05-10,Germany,Consumer,2259
+2024-06-05,Canada,Consumer,3000
+2024-06-15,Canada,Enterprise,7690
+2024-05-28,USA,Consumer,7110
+2024-06-19,USA,Consumer,1758
+2024-04-01,UK,Small Business,6989
+2024-06-03,USA,Enterprise,10593
+2024-06-08,Germany,Small Business,10996
+2024-06-09,UK,Consumer,5175
+2024-06-06,USA,Consumer,10117
+2024-04-22,Canada,Small Business,11331
+2024-04-16,USA,Consumer,8364
+2024-05-06,Canada,Small Business,3595
+2024-05-15,Canada,Enterprise,6121
+2024-06-03,Germany,Enterprise,7103
+2024-05-08,Germany,Enterprise,6491
+2024-05-10,UK,Small Business,11985
+2024-06-15,Canada,Enterprise,1842
+2024-06-14,Canada,Consumer,9434
+2024-04-06,Canada,Enterprise,9326
+2024-05-17,Canada,Enterprise,8505
+2024-04-17,Canada,Enterprise,6243
+2024-05-30,Germany,Consumer,6080
+2024-06-23,UK,Enterprise,4594
+2024-06-07,Germany,Consumer,9841
+2024-06-13,Germany,Consumer,9122
+2024-05-17,Canada,Small Business,6053
+2024-06-12,USA,Consumer,11400
+2024-06-22,Germany,Enterprise,6682
+2024-06-22,USA,Small Business,11092
+2024-04-09,Canada,Consumer,3825
+2024-04-10,Canada,Small Business,8013
+2024-06-14,Canada,Small Business,3587
+2024-04-24,UK,Consumer,11736
+2024-05-19,USA,Enterprise,1210
+2024-05-10,USA,Consumer,3997
+2024-06-13,Canada,Consumer,5916
+2024-05-30,Germany,Small Business,6607
+2024-04-23,Germany,Small Business,6344
+2024-05-04,Germany,Small Business,4666
+2024-05-17,USA,Consumer,2810
+2024-05-12,Germany,Small Business,4703
+2024-04-06,Canada,Consumer,6967
+2024-06-13,UK,Small Business,1961
+2024-06-23,Canada,Small Business,7795
+2024-04-30,USA,Enterprise,3057
+2024-04-05,USA,Consumer,2376
+2024-06-22,USA,Consumer,3690
+2024-06-24,USA,Small Business,5328
+2024-05-26,Germany,Consumer,7665
+2024-06-08,Germany,Enterprise,3065
+2024-06-03,Canada,Small Business,4041
+2024-06-09,Germany,Enterprise,4154
+2024-05-02,USA,Consumer,4234
+2024-06-29,Germany,Consumer,8483
+2024-04-04,Canada,Consumer,1855
+2024-06-14,USA,Consumer,9359
+2024-05-09,USA,Small Business,5607
+2024-05-11,Germany,Small Business,11520
+2024-06-25,USA,Small Business,11955
+2024-04-08,Canada,Enterprise,6474
+2024-05-15,Canada,Small Business,5284
+2024-05-11,Germany,Enterprise,3259
+2024-06-26,Canada,Small Business,7434
+2024-04-25,Germany,Small Business,2953
+2024-05-27,USA,Enterprise,2524
+2024-05-03,Germany,Consumer,2281
+2024-04-17,UK,Small Business,7486
+2024-04-09,UK,Consumer,7659
+2024-05-24,Canada,Small Business,7889
+2024-06-13,Germany,Enterprise,6845
+2024-04-28,Canada,Small Business,10140
+2024-05-30,Germany,Small Business,6299
+2024-04-15,Canada,Small Business,5163
+2024-04-12,Canada,Small Business,5591
+2024-06-28,Canada,Enterprise,2638
+2024-04-28,USA,Consumer,8614
+2024-06-24,Canada,Consumer,2925
+2024-05-06,Germany,Consumer,6306
+2024-05-12,Canada,Small Business,7795
+2024-06-01,USA,Enterprise,7592
+2024-04-23,Canada,Small Business,2717
+2024-04-14,USA,Enterprise,10029
+2024-04-20,Canada,Small Business,10063
+2024-06-22,USA,Enterprise,11436
+2024-05-16,USA,Enterprise,5081
+2024-06-27,USA,Small Business,9786
+2024-05-24,UK,Enterprise,5404
+2024-04-21,Canada,Consumer,6247
+2024-04-29,Germany,Small Business,2248
+2024-06-16,Germany,Enterprise,8749
+2024-04-29,UK,Consumer,1357
+2024-06-22,USA,Small Business,9069
+2024-06-12,Canada,Consumer,7713
+2024-04-03,USA,Enterprise,1369
+2024-04-25,Canada,Small Business,11907
+2024-04-02,Canada,Enterprise,2888
+2024-05-03,Germany,Enterprise,9684
+2024-04-10,UK,Consumer,11000
+2024-05-19,Germany,Small Business,1624
+2024-06-17,Canada,Enterprise,11441
+2024-04-18,Canada,Consumer,1599
+2024-05-20,Canada,Consumer,3667
+2024-05-26,UK,Enterprise,5463
+2024-05-14,UK,Enterprise,1591
+2024-06-03,USA,Consumer,6401
+2024-05-15,UK,Enterprise,9709
+2024-06-09,Germany,Consumer,6598
+2024-05-08,Canada,Enterprise,1991
+2024-05-27,Germany,Small Business,1540
+2024-04-04,Canada,Enterprise,11469
+2024-05-11,Germany,Enterprise,3789
+2024-05-30,USA,Consumer,1617
+2024-05-22,UK,Enterprise,2474
+2024-05-19,UK,Consumer,10217
+2024-04-06,USA,Enterprise,3971
+2024-06-27,USA,Small Business,9920
+2024-05-29,Germany,Small Business,2730
+2024-04-17,USA,Small Business,10347
+2024-04-17,Canada,Consumer,8422
+2024-06-05,Canada,Consumer,1401
+2024-06-18,UK,Consumer,2364
+2024-05-01,Germany,Small Business,1276
+2024-06-25,USA,Small Business,2368
+2024-06-10,Canada,Enterprise,6587
+2024-04-09,USA,Consumer,5535
+2024-06-07,Germany,Consumer,2115
+2024-04-03,USA,Consumer,4533
+2024-06-21,Canada,Consumer,9582
+2024-05-20,USA,Small Business,1344
+2024-06-06,UK,Enterprise,5005
+2024-05-04,Canada,Enterprise,5738
+2024-06-27,Canada,Small Business,1896
+2024-06-16,Canada,Small Business,11509
+2024-06-23,Germany,Enterprise,5019
+2024-05-23,UK,Small Business,7473
+2024-04-06,Germany,Enterprise,9651
+2024-06-01,Canada,Consumer,4243
+2024-04-23,Canada,Enterprise,9864
+2024-06-16,Canada,Consumer,4199
+2024-06-22,USA,Small Business,9052
+2024-06-07,USA,Consumer,3149
+2024-06-28,UK,Small Business,6503
+2024-05-16,Germany,Consumer,11480
+2024-05-17,Germany,Consumer,4824
+2024-04-22,Canada,Enterprise,4109
+2024-05-21,UK,Enterprise,8012
+2024-05-28,Germany,Consumer,4420
+2024-04-03,USA,Consumer,10515
+2024-05-16,Germany,Small Business,8932
+2024-05-10,Germany,Consumer,10387
+2024-04-20,USA,Enterprise,1915
+2024-05-20,Canada,Enterprise,9196
+2024-05-18,Canada,Small Business,10275
+2024-05-19,Germany,Enterprise,9165
+2024-06-12,Germany,Small Business,4216
+2024-04-27,Canada,Enterprise,8835
+2024-06-24,Germany,Enterprise,11410
+2024-06-20,Canada,Small Business,10462
+2024-04-20,USA,Enterprise,7860
+2024-05-04,Germany,Small Business,6350
+2024-06-09,USA,Consumer,5143
+2024-04-10,UK,Small Business,8957
+2024-04-08,Germany,Consumer,7212
+2024-05-19,Canada,Enterprise,6770
+2024-06-20,USA,Small Business,8158
+2024-06-09,UK,Enterprise,1432
+2024-04-08,UK,Enterprise,5615
+2024-06-24,Germany,Enterprise,4783
+2024-05-02,Germany,Enterprise,6279
+2024-06-20,UK,Consumer,1369
+2024-05-25,UK,Enterprise,3597
+2024-06-10,USA,Small Business,3068
+2024-05-19,UK,Consumer,1667
+2024-04-06,Canada,Enterprise,4794
+2024-06-25,Germany,Enterprise,3083
+2024-04-28,USA,Consumer,11725
+2024-06-20,Canada,Enterprise,8229
+2024-05-14,Germany,Enterprise,5793
+2024-04-10,Germany,Enterprise,7263
+2024-05-21,UK,Consumer,8834
+2024-05-04,USA,Consumer,11490
+2024-06-20,UK,Small Business,4417
+2024-06-28,Germany,Consumer,3286
+2024-06-05,Germany,Small Business,3252
+2024-05-19,USA,Enterprise,6066
+2024-04-05,UK,Enterprise,6206
+2024-04-18,Germany,Small Business,5500
+2024-06-03,USA,Small Business,5736
+2024-06-01,Germany,Enterprise,2019
+2024-06-14,USA,Consumer,11711
+2024-05-05,Canada,Consumer,3431
+2024-04-21,Canada,Consumer,3317
+2024-05-26,UK,Small Business,2927
+2024-04-21,Germany,Small Business,2384
+2024-06-29,USA,Consumer,11736
+2024-05-20,UK,Small Business,7739
+2024-06-28,Germany,Enterprise,7362
+2024-04-25,USA,Consumer,5943
+2024-05-31,Germany,Enterprise,8121
+2024-05-26,Germany,Small Business,1684
+2024-06-24,UK,Consumer,1725
+2024-06-08,USA,Enterprise,2455
+2024-04-14,UK,Consumer,7337
+2024-04-30,Germany,Small Business,11975
+2024-05-16,Germany,Small Business,4575
+2024-06-06,Canada,Small Business,10493
+2024-05-23,Canada,Consumer,11881
+2024-05-09,Germany,Small Business,6866
+2024-06-22,UK,Consumer,5573
+2024-04-01,Germany,Enterprise,3761
+2024-04-15,Canada,Consumer,7779
+2024-05-25,Germany,Small Business,3562
+2024-04-27,Germany,Small Business,2537
+2024-04-13,Canada,Consumer,10502
+2024-06-03,Germany,Consumer,1654
+2024-06-03,USA,Enterprise,10354
+2024-06-03,Canada,Small Business,2024
+2024-06-26,Germany,Consumer,4564
+2024-04-11,Canada,Enterprise,2862
+2024-04-26,Germany,Enterprise,11286
+2024-05-22,UK,Small Business,4791
+2024-06-12,UK,Enterprise,5867
+2024-04-18,UK,Enterprise,10530
+2024-05-29,Canada,Consumer,10498
+2024-04-06,Canada,Enterprise,9317
+2024-06-26,USA,Consumer,5518
+2024-04-07,USA,Small Business,6668
+2024-05-23,USA,Enterprise,6561
+2024-06-10,Germany,Consumer,3022
+2024-05-18,USA,Small Business,2498
+2024-06-04,USA,Small Business,5213
+2024-04-15,UK,Enterprise,1856
+2024-06-07,Canada,Consumer,7149
+2024-05-17,Canada,Small Business,9593
+2024-06-22,Canada,Enterprise,5241
+2024-06-24,UK,Consumer,4718
+2024-05-06,USA,Enterprise,2651
+2024-04-14,UK,Consumer,1928
+2024-04-12,USA,Consumer,8637
+2024-04-03,USA,Enterprise,11628
+2024-06-21,USA,Small Business,2249
+2024-06-16,UK,Consumer,1424
+2024-04-14,USA,Enterprise,3299
+2024-06-08,Germany,Small Business,5830
+2024-05-09,Germany,Consumer,4057
+2024-04-28,USA,Small Business,4254
+2024-05-28,USA,Consumer,4466
+2024-04-19,UK,Consumer,4735
+2024-05-08,Germany,Enterprise,8155
+2024-04-02,Germany,Enterprise,5083
+2024-05-26,Canada,Consumer,8946
+2024-06-26,UK,Small Business,7858
+2024-06-26,Germany,Small Business,1935
+2024-05-19,Germany,Consumer,10289
+2024-05-03,UK,Enterprise,10172
+2024-04-15,UK,Small Business,3864
+2024-04-12,Canada,Consumer,5984
+2024-04-25,Germany,Small Business,2533
+2024-05-08,USA,Enterprise,9977
+2024-05-13,UK,Consumer,1515
+2024-06-12,Germany,Small Business,2944
+2024-04-20,UK,Consumer,3304
+2024-06-16,USA,Consumer,3056
+2024-06-21,Canada,Enterprise,4484
+2024-06-28,UK,Enterprise,9700
+2024-04-10,Canada,Enterprise,1659
+2024-06-09,USA,Enterprise,9624
+2024-05-16,UK,Small Business,11941
+2024-06-20,UK,Small Business,10292
+2024-06-11,Germany,Enterprise,4368
+2024-05-11,UK,Enterprise,2544
+2024-05-28,USA,Enterprise,8748
+2024-05-14,Germany,Consumer,10373
+2024-05-03,Canada,Small Business,9501
+2024-04-26,Canada,Consumer,5176
+2024-06-23,USA,Enterprise,7157
+2024-04-27,Germany,Small Business,2890
+2024-04-07,UK,Small Business,3344
+2024-06-09,UK,Small Business,5481
+2024-05-17,Canada,Small Business,4527
+2024-04-18,UK,Enterprise,3846
+2024-06-05,UK,Small Business,9266
+2024-04-27,Germany,Enterprise,11445
+2024-05-19,USA,Small Business,7241
+2024-05-02,Canada,Consumer,5759
+2024-06-18,USA,Enterprise,4434
+2024-06-25,UK,Consumer,8266
+2024-05-26,Canada,Consumer,5567
+2024-05-23,UK,Enterprise,1715
+2024-04-25,USA,Consumer,2611
+2024-04-10,Canada,Small Business,7019
+2024-05-15,USA,Consumer,2068
+2024-06-20,Germany,Consumer,3275
+2024-04-28,USA,Small Business,9691
+2024-05-08,USA,Consumer,2768
+2024-05-03,Canada,Enterprise,5685
+2024-05-26,Germany,Small Business,5445
+2024-05-11,USA,Consumer,3972
+2024-05-17,USA,Small Business,8900
+2024-05-19,Germany,Small Business,7213
+2024-04-07,Germany,Enterprise,2807
+2024-04-26,UK,Small Business,8723
+2024-05-04,Canada,Small Business,9454
+2024-05-06,USA,Small Business,3190
+2024-05-03,Germany,Enterprise,6218
+2024-05-11,UK,Consumer,4753
+2024-06-03,USA,Small Business,3700
+2024-05-07,Canada,Small Business,3854
+2024-05-04,Canada,Small Business,2949
+2024-05-11,Canada,Consumer,10326
+2024-06-11,Canada,Enterprise,7869
+2024-04-22,UK,Small Business,1738
+2024-06-03,Canada,Consumer,5128
+2024-06-12,USA,Consumer,10927
+2024-04-13,Canada,Enterprise,9709
+2024-05-31,Germany,Consumer,5929
+2024-05-23,Germany,Small Business,9630
+2024-05-28,Germany,Small Business,5232
+2024-04-15,Germany,Small Business,7406
+2024-04-21,Germany,Enterprise,3739
+2024-04-20,Canada,Consumer,6800
+2024-04-17,USA,Enterprise,5095
+2024-06-14,USA,Consumer,11715
+2024-06-14,USA,Consumer,9368
+2024-04-21,USA,Enterprise,8487
+2024-06-13,USA,Consumer,9922
+2024-06-24,Germany,Consumer,5532
+2024-04-24,UK,Small Business,10090
+2024-04-05,Germany,Consumer,7130
+2024-04-18,USA,Consumer,11155
+2024-05-31,USA,Small Business,11581
+2024-06-16,USA,Consumer,4599
+2024-04-07,Canada,Enterprise,6500
+2024-04-09,USA,Enterprise,6769
+2024-06-20,Canada,Enterprise,5345
+2024-06-15,Canada,Small Business,5780
+2024-04-27,Canada,Enterprise,2623
+2024-04-16,Canada,Enterprise,4913
+2024-05-05,UK,Enterprise,2934
+2024-04-19,Germany,Enterprise,7574
+2024-04-13,Canada,Consumer,7672
+2024-04-25,UK,Consumer,7149
+2024-04-02,Canada,Enterprise,8102
+2024-06-13,USA,Enterprise,1266
+2024-05-19,Germany,Enterprise,10646
+2024-04-30,UK,Consumer,10620
+2024-04-28,USA,Enterprise,11036
+2024-06-10,Germany,Enterprise,7300
+2024-04-21,Germany,Consumer,11485
+2024-04-22,USA,Enterprise,1919
+2024-06-22,UK,Enterprise,10726
+2024-04-25,UK,Small Business,4756
+2024-04-19,Germany,Consumer,11959
+2024-04-23,Canada,Small Business,11561
+2024-06-20,UK,Consumer,10365
+2024-06-08,UK,Enterprise,1953
+2024-05-10,USA,Enterprise,9177
+2024-06-28,USA,Consumer,9472
+2024-04-15,UK,Enterprise,9287
+2024-05-20,UK,Enterprise,3910
+2024-05-12,UK,Consumer,6142
+2024-06-08,USA,Enterprise,7484
+2024-06-13,Germany,Consumer,3849
+2024-04-17,USA,Small Business,6252
+2024-04-20,Germany,Consumer,3760
+2024-06-21,Canada,Enterprise,6560
+2024-05-17,Canada,Consumer,11146
+2024-04-01,Canada,Enterprise,4828
+2024-04-29,UK,Enterprise,3683
+2024-04-20,USA,Consumer,5111
+2024-05-25,Germany,Consumer,2384
+2024-05-31,Canada,Enterprise,10522
+2024-05-22,Canada,Small Business,8212
+2024-05-08,USA,Small Business,5312
+2024-06-05,Canada,Enterprise,10321
+2024-06-14,USA,Enterprise,9719
+2024-06-19,USA,Consumer,8020
+2024-04-26,Germany,Small Business,7104
+2024-05-16,UK,Consumer,7541
+2024-04-13,UK,Small Business,3675
+2024-04-22,USA,Small Business,8731
+2024-05-04,Germany,Enterprise,2218
+2024-06-02,Canada,Enterprise,11190
+2024-05-12,USA,Small Business,5435
+2024-06-27,Germany,Consumer,3646
+2024-05-04,USA,Consumer,11721
+2024-05-18,Canada,Consumer,11014
+2024-05-17,USA,Small Business,10318
+2024-04-25,Germany,Consumer,3922
+2024-04-29,UK,Small Business,5930
+2024-05-14,UK,Enterprise,3722
+2024-06-14,USA,Enterprise,8592
+2024-06-16,Canada,Consumer,5357
+2024-05-28,UK,Small Business,8236
+2024-04-02,UK,Consumer,4663
+2024-05-17,Canada,Consumer,10196
+2024-05-07,Canada,Enterprise,8890
+2024-05-09,UK,Consumer,7250
+2024-06-22,UK,Small Business,10292
+2024-04-22,Canada,Consumer,9304
+2024-06-30,Germany,Small Business,2065
+2024-05-28,Canada,Small Business,3381
+2024-05-07,Germany,Enterprise,1514
+2024-06-01,UK,Enterprise,10396
+2024-06-17,Canada,Enterprise,8285
+2024-04-30,Germany,Consumer,3740
+2024-06-16,UK,Small Business,4810
+2024-04-15,Canada,Enterprise,5178
+2024-04-06,USA,Consumer,9842
+2024-05-01,USA,Small Business,7044
+2024-06-30,Germany,Small Business,11662
+2024-04-05,Germany,Small Business,4955
+2024-06-13,UK,Small Business,5388
+2024-06-08,USA,Consumer,7984
+2024-05-05,UK,Small Business,3909
+2024-05-01,UK,Enterprise,3835
+2024-04-13,USA,Consumer,2146
+2024-04-24,UK,Enterprise,7225
+2024-05-04,USA,Enterprise,4236
+2024-06-15,USA,Enterprise,6486
+2024-05-18,Germany,Consumer,7344
+2024-05-18,Germany,Consumer,5769
+2024-04-14,UK,Small Business,9706
+2024-06-20,USA,Enterprise,7629
+2024-05-27,USA,Enterprise,4240
+2024-05-22,USA,Enterprise,6402
+2024-04-20,UK,Small Business,10820
+2024-04-15,USA,Consumer,7834
+2024-04-03,UK,Enterprise,2273
+2024-05-05,UK,Consumer,3524
+2024-06-23,UK,Consumer,5563
+2024-05-12,USA,Enterprise,7704
+2024-05-29,UK,Consumer,6998
+2024-04-27,USA,Consumer,1775
+2024-04-10,Germany,Enterprise,5971
+2024-06-08,Canada,Consumer,3019
+2024-06-25,Germany,Enterprise,9089
+2024-06-01,UK,Small Business,11237
+2024-05-05,USA,Consumer,7129
+2024-06-24,UK,Small Business,10788
+2024-05-09,Canada,Consumer,2507
+2024-06-10,Germany,Consumer,9259
+2024-04-15,UK,Consumer,10254
+2024-04-02,Germany,Enterprise,5597
+2024-06-19,USA,Consumer,7051
+2024-06-16,UK,Consumer,11571
+2024-06-27,Germany,Consumer,6096
+2024-04-04,Germany,Small Business,8251
+2024-04-14,USA,Small Business,2577
+2024-05-30,USA,Consumer,9002
+2024-04-27,Germany,Small Business,10022
+2024-05-15,Canada,Enterprise,10861
+2024-05-30,Canada,Small Business,6167
+2024-05-01,USA,Small Business,9710
+2024-06-16,UK,Consumer,9074
+2024-04-10,Germany,Consumer,10635
+2024-06-03,Canada,Consumer,7233
+2024-04-28,USA,Consumer,4798
+2024-04-11,UK,Consumer,5840
+2024-06-21,USA,Consumer,10089
+2024-04-09,Canada,Consumer,7646
+2024-04-28,UK,Consumer,2116
+2024-05-12,UK,Enterprise,4536
+2024-04-15,USA,Small Business,6671
+2024-05-27,Canada,Small Business,5745
+2024-05-04,Canada,Consumer,8383
+2024-06-29,Canada,Enterprise,5866
+2024-06-07,UK,Consumer,11274
+2024-06-05,UK,Small Business,1915
+2024-05-18,USA,Consumer,8561
+2024-04-25,USA,Enterprise,3892
+2024-05-07,USA,Small Business,8710
+2024-06-10,Germany,Enterprise,1602
+2024-06-09,USA,Consumer,9014
+2024-04-05,UK,Small Business,4254
+2024-06-17,UK,Consumer,6754
+2024-05-14,USA,Enterprise,6352
+2024-05-19,UK,Small Business,3279
+2024-04-23,Germany,Enterprise,3104
+2024-04-19,Germany,Consumer,6859
+2024-06-20,USA,Enterprise,3483
+2024-06-06,Germany,Consumer,7419
+2024-04-16,UK,Consumer,9353
+2024-05-25,USA,Small Business,7764
+2024-05-27,Germany,Small Business,5310
+2024-04-17,USA,Enterprise,11640
+2024-04-02,UK,Small Business,5024
+2024-05-18,Germany,Small Business,3124
+2024-04-12,USA,Consumer,7235
+2024-05-23,UK,Consumer,2918
+2024-06-17,Canada,Consumer,5721
+2024-05-09,Germany,Consumer,3490
+2024-05-13,Canada,Consumer,2207
+2024-04-12,Canada,Small Business,6917
+2024-04-10,Canada,Enterprise,8047
+2024-04-09,USA,Enterprise,7835
+2024-05-16,Canada,Consumer,5962
+2024-04-03,UK,Enterprise,10765
+2024-05-10,Canada,Small Business,9183
+2024-06-26,Canada,Enterprise,4156
+2024-05-21,Canada,Small Business,5385
+2024-06-08,UK,Small Business,3648
+2024-04-24,Germany,Consumer,10203
+2024-04-15,Germany,Small Business,4784
+2024-06-12,USA,Consumer,1474
+2024-04-24,Canada,Enterprise,4993
+2024-05-01,Germany,Enterprise,1356
+2024-06-18,Germany,Consumer,7872
+2024-06-16,Germany,Enterprise,2019
+2024-04-26,Canada,Enterprise,5033
+2024-04-12,UK,Small Business,11545
+2024-05-07,Germany,Small Business,11922
+2024-05-20,UK,Small Business,9118
+2024-06-07,UK,Small Business,6248
+2024-05-12,Germany,Consumer,8120
+2024-06-15,UK,Enterprise,7723
+2024-05-21,Germany,Enterprise,5063
+2024-04-07,Canada,Consumer,6685
+2024-04-20,UK,Consumer,1910
+2024-06-30,USA,Enterprise,5839
+2024-04-27,Germany,Consumer,11537
+2024-06-03,USA,Small Business,4193
+2024-05-17,UK,Consumer,2970
+2024-06-22,UK,Enterprise,9016
+2024-06-19,Germany,Enterprise,11584
+2024-04-05,Canada,Consumer,1371
+2024-05-07,UK,Small Business,7866
+2024-06-02,Germany,Consumer,8885
+2024-05-31,UK,Consumer,2618
+2024-06-15,UK,Enterprise,11602
+2024-04-20,Canada,Consumer,2275
+2024-05-13,USA,Enterprise,3913
+2024-06-25,Germany,Consumer,5094
+2024-05-25,USA,Enterprise,7412
+2024-05-21,Canada,Enterprise,10027
+2024-04-03,USA,Small Business,4003
+2024-04-16,Canada,Consumer,1352
+2024-06-17,UK,Enterprise,5788
+2024-06-18,USA,Consumer,4141
+2024-04-07,Canada,Small Business,7005
+2024-04-26,Germany,Consumer,2115
+2024-05-06,UK,Enterprise,9665
+2024-05-19,Germany,Small Business,10701
+2024-05-13,UK,Consumer,6764
+2024-04-05,UK,Small Business,3823
+2024-06-01,Germany,Consumer,9015
+2024-04-04,Canada,Enterprise,2863
+2024-04-26,Germany,Small Business,4975
+2024-05-24,Canada,Small Business,5023
+2024-04-23,UK,Enterprise,9414
+2024-06-25,UK,Enterprise,11668
+2024-04-12,UK,Consumer,6194
+2024-04-07,Germany,Enterprise,4971
+2024-05-25,UK,Consumer,9145
+2024-05-29,Canada,Small Business,9274
+2024-06-09,USA,Small Business,7421
+2024-05-06,UK,Consumer,1679
+2024-05-29,Canada,Small Business,10168
+2024-05-02,Germany,Enterprise,10471
+2024-04-18,Canada,Small Business,9188
+2024-06-28,Germany,Small Business,10111
+2024-04-27,UK,Consumer,7531
+2024-05-19,Canada,Small Business,1266
+2024-06-04,Canada,Enterprise,4923
+2024-04-04,USA,Enterprise,4655
+2024-05-31,Canada,Consumer,8338
+2024-04-15,USA,Small Business,2326
+2024-05-02,UK,Enterprise,9859
+2024-05-31,UK,Enterprise,8018
+2024-04-04,Germany,Enterprise,7072
+2024-06-21,Canada,Consumer,1536
+2024-05-06,Germany,Enterprise,9648
+2024-06-11,Canada,Small Business,11656
+2024-05-25,USA,Consumer,11067
+2024-06-19,Germany,Enterprise,9208
+2024-04-10,Canada,Small Business,11021
+2024-04-29,USA,Small Business,9465
+2024-06-17,USA,Enterprise,6914
+2024-06-19,USA,Small Business,6696
+2024-05-11,UK,Enterprise,2398
+2024-04-02,UK,Enterprise,8439
+2024-05-18,Canada,Small Business,11897
+2024-05-07,USA,Small Business,2009
+2024-06-10,USA,Consumer,4648
+2024-06-02,Germany,Consumer,7428
+2024-05-05,UK,Small Business,7393
+2024-04-29,USA,Enterprise,10480
+2024-05-05,Canada,Small Business,8168
+2024-05-08,UK,Consumer,4607
+2024-05-22,Germany,Small Business,1374
+2024-04-27,Germany,Enterprise,8434
+2024-05-30,UK,Consumer,6658
+2024-05-27,Germany,Enterprise,4588
+2024-05-09,UK,Consumer,8459
+2024-06-05,Germany,Enterprise,4524
+2024-04-20,UK,Small Business,5234
+2024-06-24,Canada,Enterprise,1778
+2024-06-18,USA,Enterprise,3912
+2024-05-11,Germany,Enterprise,8990
+2024-04-20,USA,Enterprise,3010
+2024-04-21,USA,Consumer,9701
+2024-05-25,Germany,Consumer,1524
+2024-05-30,Germany,Consumer,2357
+2024-04-07,Germany,Small Business,5956
+2024-04-23,Germany,Small Business,11559
+2024-05-24,UK,Consumer,8280
+2024-05-18,Canada,Small Business,6421
+2024-05-14,USA,Consumer,1449
+2024-05-14,Germany,Enterprise,9876
+2024-04-23,USA,Enterprise,4623
+2024-05-16,Canada,Small Business,3813
+2024-06-15,Canada,Small Business,7673
+2024-06-24,USA,Consumer,4283
+2024-06-27,Canada,Enterprise,8613
+2024-06-02,USA,Small Business,8071
+2024-04-06,UK,Small Business,7659
+2024-04-20,UK,Small Business,11544
+2024-04-28,USA,Enterprise,9571
+2024-05-04,USA,Enterprise,8263
+2024-04-29,Germany,Enterprise,8456
+2024-06-28,Canada,Small Business,1477
+2024-04-24,USA,Enterprise,11913
+2024-05-26,UK,Small Business,4391
+2024-05-01,Germany,Enterprise,1712
+2024-05-26,Canada,Enterprise,2868
+2024-05-25,Canada,Enterprise,6780
+2024-06-17,Germany,Consumer,2486
+2024-04-04,USA,Small Business,5461
+2024-06-08,Germany,Small Business,4636
+2024-05-12,UK,Small Business,10665
+2024-06-01,Canada,Consumer,5135
+2024-06-14,USA,Consumer,9532
+2024-06-06,Canada,Consumer,5698
+2024-06-23,Germany,Enterprise,10574
+2024-06-28,UK,Small Business,1790
+2024-05-09,USA,Consumer,4852
+2024-06-04,UK,Consumer,8709
+2024-04-15,USA,Enterprise,5916
+2024-05-03,Germany,Consumer,4154
+2024-04-27,USA,Enterprise,8925
+2024-04-02,Germany,Small Business,9887
+2024-05-09,Canada,Small Business,3178
+2024-06-23,Germany,Consumer,11900
+2024-04-25,UK,Enterprise,2698
+2024-05-26,UK,Consumer,4689
+2024-04-10,Germany,Small Business,6004
+2024-06-05,Canada,Enterprise,10251
+2024-06-25,USA,Enterprise,2807
+2024-06-29,UK,Consumer,9920
+2024-05-29,UK,Small Business,8338
+2024-06-10,Canada,Small Business,11798
+2024-04-12,Germany,Enterprise,6517
+2024-05-01,Germany,Consumer,6614
+2024-06-16,Germany,Small Business,4615
+2024-06-24,UK,Consumer,7912
+2024-06-17,USA,Enterprise,1944
+2024-04-15,Canada,Consumer,9461
+2024-05-19,USA,Enterprise,10694
+2024-04-24,USA,Enterprise,5263
+2024-04-16,Canada,Small Business,4787
+2024-06-12,UK,Consumer,5049
+2024-05-24,UK,Small Business,11308
+2024-05-03,Canada,Consumer,3343
+2024-04-02,Canada,Enterprise,8627
+2024-05-27,Germany,Consumer,10638
+2024-06-18,USA,Enterprise,8512
+2024-05-26,UK,Consumer,7108
+2024-05-30,UK,Enterprise,11509
+2024-06-26,Canada,Consumer,3851
+2024-04-23,USA,Small Business,11520
+2024-05-01,Canada,Consumer,2238
+2024-04-19,Germany,Enterprise,4483
+2024-06-11,Canada,Consumer,6533
+2024-04-26,UK,Small Business,9688
+2024-06-07,Germany,Enterprise,1341
+2024-04-24,UK,Enterprise,8826
+2024-04-26,Canada,Consumer,5739
+2024-06-27,Germany,Enterprise,11107
+2024-06-01,Canada,Consumer,3170
+2024-05-13,Germany,Consumer,1890
+2024-06-21,Canada,Small Business,7184
+2024-04-25,UK,Enterprise,4803
+2024-04-30,Germany,Consumer,10369
+2024-06-22,Germany,Consumer,8727
+2024-06-23,UK,Small Business,2513
+2024-04-06,Canada,Enterprise,5925
+2024-04-17,UK,Consumer,6702
+2024-05-26,Germany,Small Business,9652
+2024-06-28,Canada,Enterprise,10659
+2024-06-14,Germany,Small Business,7687
+2024-06-20,Germany,Consumer,10010
+2024-06-15,Canada,Consumer,11255
+2024-06-24,UK,Enterprise,11339
+2024-04-24,Canada,Enterprise,9774
+2024-05-07,Canada,Enterprise,9180
+2024-05-24,USA,Enterprise,11766
+2024-05-17,Canada,Small Business,4053
+2024-04-29,Germany,Consumer,6975
+2024-04-18,Germany,Enterprise,4758
+2024-04-07,Germany,Small Business,8241
+2024-04-30,USA,Enterprise,7497
+2024-05-05,Canada,Small Business,4804
+2024-06-11,Germany,Small Business,3396
+2024-06-03,USA,Enterprise,9718
+2024-05-27,UK,Small Business,11393
+2024-06-16,USA,Consumer,9324
+2024-04-06,Canada,Consumer,6545
+2024-05-22,Canada,Enterprise,2303
+2024-06-18,Germany,Enterprise,5682
+2024-04-07,UK,Consumer,8176
+2024-06-27,UK,Enterprise,4810
+2024-05-19,UK,Enterprise,3021
+2024-06-03,Germany,Small Business,4819
+2024-06-16,USA,Consumer,6545
+2024-05-11,USA,Enterprise,2498
+2024-06-06,USA,Consumer,9238
+2024-04-02,Canada,Small Business,10747
+2024-06-16,Germany,Small Business,5896
+2024-06-01,USA,Enterprise,5734
+2024-06-08,Germany,Consumer,8102
+2024-05-27,Canada,Consumer,6874
+2024-05-01,Canada,Enterprise,6972
+2024-05-04,Germany,Enterprise,9291
+2024-06-05,USA,Enterprise,5270
+2024-04-17,Canada,Small Business,2751
+2024-05-28,Canada,Small Business,3470
+2024-04-04,Canada,Enterprise,9473
+2024-05-17,Canada,Enterprise,5452
+2024-05-22,Canada,Enterprise,3842
+2024-05-25,Germany,Consumer,11895
+2024-06-20,Germany,Small Business,6137
+2024-05-28,Canada,Enterprise,4363
+2024-06-03,USA,Consumer,7563
+2024-04-11,Germany,Consumer,10513
+2024-05-09,Canada,Small Business,7509
+2024-05-19,UK,Small Business,3433
+2024-06-24,Canada,Consumer,10101
+2024-04-17,Germany,Consumer,11276
+2024-06-17,UK,Small Business,3126
+2024-06-28,Germany,Enterprise,10548
+2024-05-24,Canada,Enterprise,7486
+2024-04-07,Canada,Consumer,3484
+2024-05-16,USA,Enterprise,11250
+2024-04-15,USA,Enterprise,5501
+2024-06-15,USA,Consumer,11131
+2024-06-11,USA,Small Business,2994
+2024-04-21,Canada,Small Business,6949
+2024-06-08,UK,Enterprise,2056
+2024-05-11,Germany,Enterprise,1899
+2024-05-07,Canada,Consumer,4355
+2024-06-14,Canada,Consumer,9022
+2024-04-17,Canada,Small Business,4181
+2024-05-28,USA,Consumer,1598
+2024-04-19,USA,Enterprise,7956
+2024-05-06,USA,Small Business,5057
+2024-04-20,UK,Enterprise,6543
+2024-05-04,Canada,Enterprise,4689
+2024-06-25,USA,Enterprise,6504
+2024-05-26,USA,Small Business,10413
+2024-06-22,Canada,Small Business,2449
+2024-06-11,USA,Small Business,4710
+2024-04-03,Germany,Small Business,9848
+2024-05-30,Canada,Small Business,1643
+2024-05-06,UK,Small Business,11864
+2024-04-09,Canada,Enterprise,4507
+2024-05-31,Germany,Consumer,11209
+2024-06-07,Germany,Enterprise,6622
+2024-06-14,USA,Consumer,4078
+2024-04-21,Germany,Consumer,3545
+2024-05-06,Canada,Small Business,6863
+2024-04-29,Germany,Consumer,8818
+2024-05-03,UK,Consumer,1883
+2024-04-13,Germany,Enterprise,2048
+2024-06-01,Canada,Consumer,8266
+2024-04-07,Germany,Small Business,1345
+2024-04-09,USA,Consumer,5949
+2024-05-16,UK,Consumer,6171
+2024-05-08,Canada,Small Business,5973
+2024-05-22,UK,Consumer,11599
+2024-04-06,Germany,Consumer,10234
+2024-05-18,USA,Enterprise,11485
+2024-04-23,UK,Consumer,4003
+2024-05-23,Canada,Consumer,5235
+2024-04-13,USA,Small Business,7291
+2024-06-07,Canada,Enterprise,6900
+2024-04-30,Germany,Enterprise,5448
+2024-04-10,UK,Consumer,2586
+2024-05-04,USA,Enterprise,5039
+2024-04-14,Germany,Small Business,8940
+2024-06-04,Germany,Enterprise,8005
+2024-06-18,UK,Small Business,3760
+2024-05-12,Germany,Small Business,9483
+2024-04-23,USA,Small Business,1374
+2024-06-03,USA,Consumer,6960
+2024-04-16,USA,Small Business,11844
+2024-04-27,Germany,Small Business,6994
+2024-06-04,Germany,Small Business,2850
+2024-05-17,Canada,Enterprise,2514
+2024-06-15,USA,Small Business,8216
+2024-06-13,UK,Small Business,6981
+2024-04-18,UK,Consumer,11996
+2024-06-14,Canada,Small Business,10161
+2024-05-06,USA,Consumer,11034
+2024-06-26,USA,Enterprise,8832
+2024-04-07,Germany,Small Business,5870
+2024-05-27,UK,Consumer,9635
+2024-04-12,UK,Enterprise,6225
+2024-04-17,Canada,Small Business,11493
+2024-04-28,Germany,Enterprise,10426
+2024-04-18,Canada,Consumer,7929
+2024-04-26,USA,Consumer,9785
+2024-05-13,UK,Consumer,6457
+2024-05-13,UK,Small Business,9841

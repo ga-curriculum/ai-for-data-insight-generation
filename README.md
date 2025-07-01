@@ -1,21 +1,20 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Visualizations and Insight Generation</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module teaches you how to use GenAI tools to create, evaluate, and refine business data visualizations from structured datasets. You'll learn how to write clear prompts, critically assess AI-generated charts, and communicate insights that drive better business decisions. Along the way, you'll build habits for healthy skepticism, so you can use AI outputs confidently and responsibly in your real-world work.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
 | [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Prompting GenAI for Data Visualization](./microlesson-01/README.md) | 20 min | Translate business questions into actionable AI prompts; select and justify chart types. |
+| [Evaluating GenAI Visualizations](./microlesson-02/README.md)       | 25 min | Critically assess and validate AI-generated charts; identify common pitfalls and errors. |
+| **Total content**                                   | ~45 min |                             |
 
 ## References
 
@@ -25,32 +24,26 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Basic spreadsheet or tabular data skills
+- Introductory Python or analytics experience
+- Comfort using online tools for code or chart generation
 
 ### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
 
 🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
 
 ### Solution code
 
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
 🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
 
 ### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
 
 🌐 [Live site](https://generalassemb.ly/tktk)
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [VIG - Visualizations and Insight Generation](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/visualizations-insight-generation/canvas-landing-pages/vig.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/visualizations-insight-generation/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -62,4 +55,4 @@ tktk If there is not a deployed site related to this module this section and all
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](http)**

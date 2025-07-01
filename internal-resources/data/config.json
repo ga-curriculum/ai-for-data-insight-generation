@@ -1,0 +1,66 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "AI for Data Insight Generation",
+    "name": "AI-for-Data-Insight-Generation",
+    "type": "Lesson",
+    "about": "This module teaches you how to use GenAI tools to create, evaluate, and refine business data visualizations from structured datasets. You'll learn how to write clear prompts, critically assess AI-generated charts, and communicate insights that drive better business decisions. Along the way, you'll build habits for healthy skepticism, so you can use AI outputs confidently and responsibly in your real-world work.",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Prompting GenAI for Data Visualization",
+          "dirName": "microlesson-01",
+          "type": "Content",
+          "skill": "Translate business questions into actionable AI prompts; select and justify chart types.",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 20
+        },
+        {
+          "friendlyName": "Evaluating GenAI Visualizations",
+          "dirName": "microlesson-02",
+          "type": "Content",
+          "skill": "Critically assess and validate AI-generated charts; identify common pitfalls and errors.",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 25
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
