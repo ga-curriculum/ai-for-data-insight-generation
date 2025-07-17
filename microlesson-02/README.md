@@ -65,6 +65,7 @@ What were total sales by country last quarter (Q2 2024)?
 - Countries: USA, Canada, UK, Germany
 
 **Sample totals for reference:**
+
 | Country | Total Revenue (USD) |
 |---------|---------------------|
 | USA     | 21,000              |
@@ -97,6 +98,7 @@ Show total revenue by customer segment.
 - Customer segments: Consumer, Small Business, Enterprise
 
 **Sample totals for reference:**
+
 | Segment        | Total Revenue (USD) |
 |----------------|---------------------|
 | Consumer       | 13,500              |
